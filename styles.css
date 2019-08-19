@@ -1,0 +1,11 @@
+body { font: normal 1em Verdana; width: 80%; margin: 1em auto; }
+
+h1 { font: italic 3em Georgia; color: rgb(30, 110, 110) ; margin: 1em 0 1em; }
+
+h2 { font: italic 2em Georgia; color: rgb(30, 110, 110) ; margin: 1em 0 1em; }
+
+p { text-align:justify; font: normal 1em Verdana; margin: 1em auto; }
+
+img { max-width: 100%; }
+
+
